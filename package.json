@@ -1,0 +1,23 @@
+{
+  "name": "lamborghini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilova09/lamborghini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danilova09/lamborghini/issues"
+  },
+  "homepage": "https://github.com/Danilova09/lamborghini#readme",
+  "devDependencies": {
+    "sass": "^1.58.3"
+  }
+}

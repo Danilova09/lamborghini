@@ -1,0 +1,29 @@
+
+.header {
+
+    &_inner {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+
+.nav {
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+    }
+
+    &__item {
+    }
+}
+.logo {
+
+    &_img {
+    }
+}
+
+
+
